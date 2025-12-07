@@ -46,7 +46,8 @@ It demonstrates basic UI components in Flutter such as Column, TextField, Elevat
    flutter run
 
 **Screenshots**
-**Login UI Screenshot:**
+
+**Login UI:**
 ![Login UI Screenshot](assets/screenshots/login_ui.PNG)
 **Home Page UI:**
 ![Home Page UI Screenshot](assets/screenshots/home_page.PNG)
