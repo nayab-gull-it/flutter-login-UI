@@ -51,8 +51,6 @@ Add your screenshots here after uploading images to the repo:
 ![Login UI Screenshot](assets/screenshots/login_ui.PNG)
 ![Home Page UI Screenshot](assets/screenshots/home_page.PNG)
 
-(Your repo → Upload files → upload screenshot → open the file → copy image address → paste here.)
-
 **Sample UI (Short Description):**
 The login UI includes:
 1.Centered logo/title
