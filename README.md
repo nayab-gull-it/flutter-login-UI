@@ -48,8 +48,8 @@ It demonstrates basic UI components in Flutter such as Column, TextField, Elevat
 **Screenshots**
 Add your screenshots here after uploading images to the repo:
 
-![Login UI Screenshot](image-link-here)
-
+![Login UI Screenshot](assets/screenshots/login_ui.PNG)
+![Home Page UI Screenshot](assets/screenshots/home_page.PNG)
 
 (Your repo → Upload files → upload screenshot → open the file → copy image address → paste here.)
 
