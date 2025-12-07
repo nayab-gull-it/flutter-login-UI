@@ -70,6 +70,7 @@ Nayab Gull
 Flutter Developer (Intern)
 
 LinkedIn: https://www.linkedin.com/in/nayab-gull-4a4795293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Email: nayabbbgull@gmail.com
 
 ⭐ If you like this project, consider giving it a star!
